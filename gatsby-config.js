@@ -2,8 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
     description: `Personal Starter`,
-    author: `ieljbusmente@gmail.com`,
-    // siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    author: `ieljbusmente@gmail.com`, 
   },
   plugins: [
     `gatsby-plugin-image`,
